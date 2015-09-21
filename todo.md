@@ -1,3 +1,4 @@
 * Run this script after a fixed duration of minutes.
 - Pop-up a dialog-box. But not a new one everytime.
 - Set sound-level if it's currently muted.
+- `upower` should be replaced by `acpi` to get the current charging value.
