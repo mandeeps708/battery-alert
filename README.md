@@ -1,2 +1,2 @@
 # battery-alert
-Alert me with a sound when battery level reaches a certain level.
+Alert me with a sound when battery reaches a certain level.
